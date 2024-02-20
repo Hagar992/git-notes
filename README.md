@@ -1,7 +1,6 @@
 #To withdraw the repo to the local device:
-  1-mkdir(name of file)
-/
-  2-cd (name of file)
+  1-mkdir(name of file)\t
+  2-cd (name of file)\t\
   3-git clone (past the link of https from repo)
   4-dir(It will return the name of the repo)
   5-cd (name of repo)
