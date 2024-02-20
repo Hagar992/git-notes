@@ -1,4 +1,4 @@
-#To withdraw the repo to the local device:#
+#To withdraw the repo to the local device:\
   -mkdir(name of file)\
   -cd (name of file)\
   -git clone (past the link of https from repo)\
@@ -25,7 +25,7 @@
 -git clean -f (It will delete files that are not present in the stage)\
 
 ********************
-#To do ssh:#
+#To do ssh:\
   -ssh-keygen -t rsa -b 4096 -C "your_email@example.com"\
   -cat + file name ( displaying the contents of a file)\
 ********************
