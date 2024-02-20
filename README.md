@@ -1,10 +1,10 @@
-# To withdraw the repo to the local device:\
-  - mkdir(name of file)\
-  - cd (name of file)\
-  - git clone (past the link of https from repo)\
-  - dir(It will return the name of the repo)\
-  - cd (name of repo)\
-  - dir (It will return the name of the file inside the repo)\
+# To withdraw the repo to the local device:
+  - mkdir(name of file)
+  - cd (name of file)
+  - git clone (past the link of https from repo)
+  - dir(It will return the name of the repo)
+  - cd (name of repo)
+  - dir (It will return the name of the file inside the repo)
 *********************
 - git status (To view the file status)\
 - git add (To add a file to the staging area)\
