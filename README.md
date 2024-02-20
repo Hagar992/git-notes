@@ -1,10 +1,10 @@
 #To withdraw the repo to the local device:
-  1-mkdir(name of file)\t
-  2-cd (name of file)\t\
-  3-git clone (past the link of https from repo)
-  4-dir(It will return the name of the repo)
-  5-cd (name of repo)
-  6-dir (It will return the name of the file inside the repo)
+  -mkdir(name of file)\
+  -cd (name of file)\
+  -git clone (past the link of https from repo)\
+  -dir(It will return the name of the repo)\
+  -cd (name of repo)\
+  -dir (It will return the name of the file inside the repo)\
 *********************
 1-git status (To view the file status)
 2-git add (To add a file to the staging area)
